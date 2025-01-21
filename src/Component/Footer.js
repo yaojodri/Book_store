@@ -39,9 +39,9 @@ const Footer = ()=>{
 
    <div class="box">
     <h3>contact</h3>
-<a href="#"> <i class="fas fa-phone"></i> 055 108 3345 </a>
-<a href="#"> <i class="fas fa-phone"></i> 024 101 4543 </a>
-<a href="#"> <i class="fas fa-phone"></i> davidxaryee@gmail.com </a>
+<a href="#"> <i class="fas fa-phone"></i> 0542300023 </a>
+<a href="#"> <i class="fas fa-phone"></i> 0257128544 </a>
+<a href="#"> <i class="fas fa-phone"></i> jocefson@gmail.com </a>
 <img src="images/worldmap.jpg" class="map" alt="rti"/>
 </div>
 
